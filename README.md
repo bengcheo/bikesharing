@@ -26,10 +26,10 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The three features that contribute strongly to the model are.
+1. Year. This means that year is a important feature because more bikes are rented out during the second year (2019) when the company became more established and well-known in USA.
+2. Not Spring. When the season is not spring, more bikes are rented out as Spring is a season when temperatures are lower and snow and dangerous weather conditions are more frequent.
+3. Weather is not snow. When the weather is snowing, far fewer bikes are rented out as it is safer to ride, and there is a strong inverse relationshp, as indicated by high negative beta coefficient value. 
 
 ## Technologies Used
 - library - version 1.0
