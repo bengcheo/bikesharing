@@ -32,16 +32,14 @@ The three features that contribute strongly to the model are.
 3. Weather is not snow. When the weather is snowing, far fewer bikes are rented out as it is safer to ride, and there is a strong inverse relationshp, as indicated by high negative beta coefficient value. 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+python:  3.8.8
+numpy:  1.19.5
+pandas:  1.2.4
+matplotlib:  3.3.4
+seaborn:  0.11.1
+plotly:  5.5.0
+statsmodels:  0.12.2
+sklearn:  0.24.1
 
 ## Contact
 Created by [@bengcheo] - feel free to contact me!
